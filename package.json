@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.5.40",
+    "node-schedule": "^2.1.1"
+  }
+}
