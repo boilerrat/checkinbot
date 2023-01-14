@@ -5,6 +5,8 @@ This script includes functionality for users to begin their daily check-in by ty
 /*
 Application ID: 1063828922925584455
 Public Key: dae5963cf5f0d894e416879836ecbf83a805c7946b5fdc00345bfc0e70eb2488
+G
+
 */
 
 const Discord = require('discord.js');
